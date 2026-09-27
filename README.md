@@ -1,4 +1,5 @@
 # Linux_Syslog_Detector
+
 An automated Python tool for parsing Linux system logs to detect brute-force attempts and unauthorized access patterns. Designed to parse Linux authentication logs (`auth.log`) on the fly, this tool detects brute-force attempts, unauthorized privilege escalation, and high-risk root access events.
 
 ## Features
